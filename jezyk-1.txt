@@ -1,0 +1,15 @@
+->Informacja: np. Śpioch wczoraj wcześnie wstał
+   ->Rozpatrzenie jako obiekt:
+      ->Obiekt: śpioch
+         ->wstał                                  informacja o śpiochu
+   -> jako kategorie - powiązania:
+      ->wstał(wstawanie)  -  informacja podrzędna (nie skojarzenie!)
+         -> wcześnie                              wstaje się np. wcześnie
+   -> jako sytuacja - wydarzenie
+      ->wstał
+         -> wczoraj and wcześnie                  czas wydarzenia
+   ->przyczyny i skutki
+      ->przyczyna nieznana
+      ->skutki
+         ->nie śpi      !!!korzysta z informacji o skojarzeniu 'wstał' == 'nie śpi'
+         
