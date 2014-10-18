@@ -4,5 +4,10 @@ szybki tutorial git
 git status - sprawdza stan
 git pull origin master - ściąga zmiany
 git add - dodaje plik do repo
-git push origin master - dodaje zmiany do chmury
+git push -u origin master - dodaje zmiany do chmury
 git commit -m "wiadomość" - akceptuje zmiany
+git commit -a -m "wiad" - --------------||------------, wszystkie!
+
+git remote add origin https://github.com/gim-projekt-ai/zyndrtem-ai.git
+dodaje repozytorium na githubie
+
