@@ -19,3 +19,6 @@ AI_research(*nil) be(*nil)(*nil)(technical, specialized) *2be(*nil)
 
 Computer is a machine
 computer(*nil) be(*nil)(*nil)(*nil) *2be(machine)
+
+Who made me?
+*q(*nil) make(past)(*nil)(*nil) me(*nil)
