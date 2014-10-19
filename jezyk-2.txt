@@ -22,3 +22,6 @@ computer(*nil) be(*nil)(*nil)(*nil) *2be(machine)
 
 Who made me?
 *q(*nil) make(past)(*nil)(*nil) me(*nil)
+
+Grab the ball!
+*request(*nil) grab(*nil)(*nil)(*nil) ball(*nil)
